@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">kutuswipe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="textv_kutu">http://www.kutukupret.com</string>
+</resources>
